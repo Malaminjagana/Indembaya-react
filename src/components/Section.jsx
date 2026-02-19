@@ -32,8 +32,9 @@ function Section() {
         <h1>Spending 2026</h1>
          <li> Rice: 30 bags  @ 1.750  Dallas each totall: 52.500 GMD  </li>
         <li>  Suger: 15 bags @ 2.350  Dallas each totall: 35.250 GMD</li>
+        
         <li>Balance: 10.250 GMD</li>
-        <li>Balance: 10.250 GMD</li>
+       <li> Ramadan Spending 20.500: Dallas</li>
 
 
         
@@ -46,10 +47,10 @@ function Section() {
 
         <h1>Group B</h1>
         <li>Banuma Jagana (2024/2025) 500$ ✅</li>
-        <li> Bacary Numa Jagana (2024/2025) 500€ ✅</li>
+        <li> Bacary Numa Jagana (2024/2025) 500€ ✅❌ Half is not paid</li>
         <li>Malamin Tabia Jagana (2024/2025) 500€ ✅</li>
-        <li>Ansuma Hatu Jagana (2024/2025) 500€ ✅</li>
-        <li>Osman Tabia Jagana (2024/2025) 500€ ✅</li>
+        <li>Ansuma Hatu Jagana (2024/2025) 500€ ❌</li>
+        <li>Osman Tabia Jagana (2024/2025) 500€ ❌</li>
         <li>MAlamin Kulle Jagana (2024/2025) 500$ ❌</li>
         <li>Lassana Kulle Jagana (2024/2025) 500$ ❌</li>
         <li>Ebrahima Gana (2024/2025) 500$ ❌</li>
