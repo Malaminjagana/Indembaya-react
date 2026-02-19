@@ -51,7 +51,7 @@ function Section() {
         <li>Malamin Tabia Jagana (2024/2025) 500€ ✅</li>
         <li>Ansuma Hatu Jagana (2024/2025) 500€ ❌</li>
         <li>Osman Tabia Jagana (2024/2025) 500€ ❌</li>
-        <li>MAlamin Kulle Jagana (2024/2025) 500$ ❌</li>
+        <li>Malamin Kulle Jagana (2024/2025) 500$ ❌</li>
         <li>Lassana Kulle Jagana (2024/2025) 500$ ❌</li>
         <li>Ebrahima Gana (2024/2025) 500$ ❌</li>
         <li>Mahmud Essa (2024/2025) 500€ ✅</li>
