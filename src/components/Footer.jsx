@@ -9,16 +9,10 @@ export default function Footer() {
       <p>{t("footer")}</p>
 
       <ul style={{ listStyle: "none", padding: 0, margin: 0 }}>
-        <li>&copy; Dev by</li>
-        <li>M. Jagana</li>
+        
       </ul>
 
-      <img
-        src={mala}
-        alt="nicepicture"
-        width="90"
-        style={{ borderRadius: "50%", marginTop: "10px" }}
-      />
+     
     </footer>
   );
 }
