@@ -60,7 +60,7 @@ function Section() {
        
        <h1>Group B 2026</h1>
 
-                 <h1>Spending 2025</h1>
+                 <h1>Spending  for 2025</h1>
 
                  <li> 30.000 GMD for meate</li>
 
