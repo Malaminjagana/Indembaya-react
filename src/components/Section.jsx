@@ -30,11 +30,11 @@ function Section() {
                 <li> <strong> all in totall:</strong> now 98,000 Dallas </li>
                  
         <h1>Spending 2026</h1>
-         <li> Rice: 30 bags  @ 1.750  Dallas each totall: 52.500 GMD  </li>
-        <li>  Suger: 15 bags @ 2.350  Dallas each totall: 35.250 GMD</li>
+         <li> Rice: 30 (bags)  @ 1,750  Dallas each totall: 52,500 GMD  </li>
+        <li>  Suger: 15 bags @ 2,350  Dallas each totall: 35,250 GMD</li>
         
-        <li>Balance: 10.250 GMD</li>
-       <li> Ramadan Spending 20.500: Dallas</li>
+        <li>Balance: 10,250 GMD</li>
+       <li> Ramadan Spending 20,500: Dallas</li>
 
 
         
