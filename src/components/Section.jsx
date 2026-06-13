@@ -18,7 +18,7 @@ function Section() {
         <li>Lassa kinda Jagana 2024 500€ ❌</li>
         
 
-          <h1>Spending 2025</h1>
+          <h1>Spending (2025)</h1>
        
           <p>Statement Summary (25 May 2025)</p>
              <li>Rice: 30 bags @ 2,150 Dallas each  Total: 64,500 Dallas</li>
