@@ -14,7 +14,7 @@ function Section() {
         <li>Papa Maleme Jagana 2024 500$ ✅</li>
         <li>Baseru Tabia Jagana (2024/2025) 500€ ✅</li>
         <li>Malamin Essa Jagana 2024 500€ ✅</li>
-        <li>MAlamin Ali Jagana (2024/2025) 500$ ✅</li>
+        <li>Malamin Ali Jagana (2024/2025) 500$ ✅</li>
         <li>Lassa kinda Jagana 2024 500€ ❌</li>
         
 
@@ -27,17 +27,12 @@ function Section() {
                <p>Statement Summary (16 September 2025)</p>
                 <li>Kacho Spending: 37,775 Dallas</li>
                 <li>Balance: 15,900 GMD</li>
-                <li> <strong> all in totall:</strong> now 98,000 Dallas </li>
+        <li> <strong> all in totall:</strong> now 98,000 Dallas </li>
+          <h1>Spending  for 2025</h1>
+
+                 <li> 30.000 GMD for meate</li>
                  
-        <h1>Spending 2026</h1>
-         <li> Rice: 30 (bags)  @ 1,750  Dallas each totall: 52,500 GMD  </li>
-        <li>  Suger: 15 bags @ 2,350  Dallas each totall: 35,250 GMD</li>
-        
-        <li>Balance: 10,250 GMD</li>
-       <li> Ramadan Spending 20,500: Dallas</li>
-
-
-        
+     
     
 
 
@@ -55,18 +50,57 @@ function Section() {
         <li>Lassana Kulle Jagana (2024/2025) 500$ ❌</li>
         <li>Ebrahima Gana (2024/2025) 500$ ❌</li>
         <li>Mahmud Essa (2024/2025) 500€ ✅</li>
+           <h1>Spending 2026</h1>
+         <li> Rice: 30 (bags)  @ 1,750  Dallas each totall: 52,500 GMD  </li>
+        <li>  Suger: 15 bags @ 2,350  Dallas each totall: 35,250 GMD</li>
+        
+        <li>Balance: 10,250 GMD</li>
+        <li> Ramadan Spending 20,500: Dallas</li> <br/>
+
+        <li>Foil for the Tracktor 2 Gallon of 20L each 2.300 Gmdx2=4.600 Gmd</li>
+        <li>Farming maschines 1.150 gmd</li>
+        <li> N.P.K 18 Back each 1.200 Gmd x 18 = 21.600 Gmd</li>
+      
+        <li>All in total:27.350 Gmd</li>
+
+
+              <h1>2026  reminder Balance: 25,750 GMD</h1>
+
+
+
+         
+    
        
-       <h1>Group A 2026 </h1>
-       
-       <h1>Group B 2026</h1>
+        <h1>Group A 2026 </h1>
+        <li>Ali Mamane Jagana (2026) 500$ ❌</li>
+        <li>Sulayman Janjume Jagana (2026) 500€ ✅ 42.000GMD</li>
+        <li>Bacary Hatou Jagana (2026) 500€ ✅ 39.336,19GMD</li>
+        <li>Papa Maleme Jagana (2026) 500$ ❌</li>
+        <li>Baseru Tabia Jagana (2026) 500€ ❌</li>
+        <li>Malamin Essa Jagana (2026) 500€ ❌</li>
+        <li>Malamin Ali Jagana (2026) 500$ ❌</li>
+        <li>Lassa kinda Jagana (2026) 500€ ❌</li>
+        
 
-                 <h1>Spending  for 2025</h1>
+        
+        
+      
 
-                 <li> 30.000 GMD for meate</li>
+                 
 
+        <h1>Group B 2026</h1>
+        <li>Banuma Jagana (2026) 500$ ❌</li>
+        <li> Bacary Numa Jagana (2026) 500€ ❌</li>
+        <li>Malamin Tabia Jagana (2026) 500€ ❌</li>
+        <li>Ansuma Hatu Jagana (2026) 500€ ❌</li>
+        <li>Osman Tabia Jagana (2026) 500€ ❌</li>
+        <li>Malamin Kulle Jagana (2026) 500$ ❌</li>
+        <li>Lassana Kulle Jagana (2026) 500$ ❌</li>
+        <li>Ebrahima Gana (2026) 500$ ❌</li>
+        <li>Mahmud Essa (2026) 500€ ❌</li>
 
       </ul>
-      <h1>2026 Balance: 25,750 GMD</h1>
+      
     </section>
   );
 }
