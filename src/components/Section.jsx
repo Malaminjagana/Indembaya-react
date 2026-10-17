@@ -69,7 +69,7 @@ function Section() {
              
 
 
-// 
+
     
        
         <h1>Group A 2026 </h1>
