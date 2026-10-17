@@ -69,8 +69,7 @@ function Section() {
              
 
 
-
-         
+// 
     
        
         <h1>Group A 2026 </h1>
@@ -83,10 +82,7 @@ function Section() {
         <li>Malamin Ali Jagana (2026) 500$ ❌</li>
         <li>Lassa kinda Jagana (2026) 500€ ❌</li>
         <li> reminding totally:79.736</li>
-        
-
-        
-        
+      
       
 
                  
