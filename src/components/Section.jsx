@@ -55,16 +55,18 @@ function Section() {
         <li>  Suger: 15 bags @ 2,350  Dallas each totall: 35,250 GMD</li>
         
         <li>Balance: 10,250 GMD</li>
-        <li> Ramadan Spending 20,500: Dallas</li> <br/>
+        <li> Ramadan Spending 20,500: Dallas</li> <br />
+        <h1>2026  reminder Balance: 25,750 GMD</h1>
+        <h2> KAKO spending the reminder 1.600 gmd will be take from the 2026 amount </h2>
 
         <li>Foil for the Tracktor 2 Gallon of 20L each 2.300 Gmdx2=4.600 Gmd</li>
         <li>Farming maschines 1.150 gmd</li>
         <li> N.P.K 18 Back each 1.200 Gmd x 18 = 21.600 Gmd</li>
       
-        <li>All in total:27.350 Gmd</li>
+        <li>All in total:27.350 Gmd </li>
 
 
-              <h1>2026  reminder Balance: 25,750 GMD</h1>
+             
 
 
 
@@ -80,6 +82,7 @@ function Section() {
         <li>Malamin Essa Jagana (2026) 500€ ❌</li>
         <li>Malamin Ali Jagana (2026) 500$ ❌</li>
         <li>Lassa kinda Jagana (2026) 500€ ❌</li>
+        <li> reminding totally:79.736</li>
         
 
         
