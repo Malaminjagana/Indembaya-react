@@ -41,7 +41,7 @@ function Section() {
          
 
         <h1>Group B 2025</h1>
-        <li>Banuma Jagana (2024/2025) 500$ ✅</li>
+        <li>Banuma Jagana (2024/2025)  <strong>he is sick </strong>May Allah grant him a speedy recovery, ease his pain, and bless him with good health. Ameen. </li>
         <li> Bacary Numa Jagana (2024/2025) 500€ ✅</li>
         <li>Malamin Tabia Jagana (2024/2025) 500€ ✅</li>
         <li>Ansuma Hatu Jagana (2024/2025) 500€ ❌</li>
@@ -88,7 +88,7 @@ function Section() {
                  
 
         <h1>Group B 2026</h1>
-        <li>Banuma Jagana (2026) 500$ ❌</li>
+         <li>Banuma Jagana (2024/2025)  <strong>he is sick </strong>May Allah grant him a speedy recovery, ease his pain, and bless him with good health. Ameen. </li>
         <li> Bacary Numa Jagana (2026) 500€ ❌</li>
         <li>Malamin Tabia Jagana (2026) 500€ ❌</li>
         <li>Ansuma Hatu Jagana (2026) 500€ ❌</li>
